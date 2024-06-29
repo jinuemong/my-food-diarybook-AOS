@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.android.myfooddiarybookaos",
+  "applicationId": "ac.food.myfooddiarybookaos",
   "variantName": "release",
   "elements": [
     {
